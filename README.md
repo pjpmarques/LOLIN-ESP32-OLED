@@ -22,3 +22,7 @@ Here's the pinout of the module for future reference:
 Please also check this documentation:
 * [Random Nerd Tutorials -- WEMOS LOLIN](https://randomnerdtutorials.com/esp32-built-in-oled-ssd1306/)
 * [ESP32-WROOM-32 with 0.96" OLED by Melife](https://www.technologyx2.com/blog_hightech/2020/5/24/research-esp32esp-wroom-32-development-board-with-096-oled-by-melife)
+
+License
+---
+[Apache 2.0](LICENSE.txt)
